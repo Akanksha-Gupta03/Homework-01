@@ -1,3 +1,7 @@
-# Homework-01
+# Homework-01: Code Refactor
 
-This is the readme for the first homework.
+Added accessibility standards to the webpage.
+ * Added alt attribute to the images.
+ * Added title to the website.
+
+
